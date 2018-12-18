@@ -1,7 +1,8 @@
 # gifMaker
-gifMaker is an image capturing tool for Touchdesigner
 
 gifMaker by Partyonmarz
+
+gifMaker is an image capturing tool for Touchdesigner
 
 This is gifMaker and it is
 a Touchdesigner component 
